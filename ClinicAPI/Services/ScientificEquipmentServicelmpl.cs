@@ -114,7 +114,7 @@ namespace ClinicAPI.Services
 		//search
 		public List<ScientificEquipment> Search(string keyword)
 		{
-			return FindAll().Where(p => p.Name.ToLower().StartsWith(keyword)).ToList();
+			return FindAll().Where(p => p.Name.Contains(keyword)).ToList();
 		}
 
 		public List<ScientificEquipment> SearchType(int machineType)

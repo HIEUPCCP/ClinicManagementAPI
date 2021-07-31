@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ung tranh\\source\\repos\\ClinicAPI\\ClinicAPI\\ClinicAPI.csproj": {}
+    "C:\\Users\\ung tranh\\Documents\\ClinicManagementAPI\\ClinicAPI\\ClinicAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ung tranh\\source\\repos\\ClinicAPI\\ClinicAPI\\ClinicAPI.csproj": {
+    "C:\\Users\\ung tranh\\Documents\\ClinicManagementAPI\\ClinicAPI\\ClinicAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ung tranh\\source\\repos\\ClinicAPI\\ClinicAPI\\ClinicAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ung tranh\\Documents\\ClinicManagementAPI\\ClinicAPI\\ClinicAPI.csproj",
         "projectName": "ClinicAPI",
-        "projectPath": "C:\\Users\\ung tranh\\source\\repos\\ClinicAPI\\ClinicAPI\\ClinicAPI.csproj",
+        "projectPath": "C:\\Users\\ung tranh\\Documents\\ClinicManagementAPI\\ClinicAPI\\ClinicAPI.csproj",
         "packagesPath": "C:\\Users\\ung tranh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ung tranh\\source\\repos\\ClinicAPI\\ClinicAPI\\obj\\",
+        "outputPath": "C:\\Users\\ung tranh\\Documents\\ClinicManagementAPI\\ClinicAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ung tranh\\AppData\\Roaming\\NuGet\\NuGet.Config",

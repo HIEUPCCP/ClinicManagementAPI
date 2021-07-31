@@ -37,7 +37,7 @@ namespace ClinicAPI.Models
         public virtual DbSet<TypeOfMedicine> TypeOfMedicines { get; set; }
         public virtual DbSet<staff> staff { get; set; }
 
-       
+      
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -130,8 +130,6 @@ namespace ClinicAPI.Models
             modelBuilder.Entity<Medicine>(entity =>
             {
                 entity.ToTable("Medicine");
-
-                entity.Property(e => e.Id).ValueGeneratedNever();
 
                 entity.Property(e => e.DateOfManufacture).HasColumnType("datetime");
 

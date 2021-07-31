@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Kdh0GC4x8JtT1ZnD41YGRPIDSR+REy6B7S57qAo2uLJNWB8qfhXolyTtRDcInjJ2mx3anJtzUt1YgnSDuYOyA==",
+  "dgSpecHash": "2bm4PSMTl7uDP8SEskePlpl3QiLRjdpUZn2BFpxjVqgapUX7zlsBZ9WIw510jUzD6K+EFroLKPi1VOQFZQXpPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ung tranh\\source\\repos\\ClinicAPI\\ClinicAPI\\ClinicAPI.csproj",
+  "projectFilePath": "C:\\Users\\ung tranh\\Documents\\ClinicManagementAPI\\ClinicAPI\\ClinicAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ung tranh\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\ung tranh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

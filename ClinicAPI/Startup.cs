@@ -32,6 +32,7 @@ namespace ClinicAPI
 			services.AddDbContext<DatabaseContext>(options => options.UseLazyLoadingProxies().UseSqlServer(defaultConnection));
 
 			services.AddScoped<ScientificEquipmentService, ScientificEquipmentServicelmpl>();
+			services.AddScoped<MedicineService, MedicineServicelmpl>();
 		}
 
 		public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
